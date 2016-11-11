@@ -1,0 +1,33 @@
+"use strict";
+exports.CARPARTS = [{
+        "id": 1,
+        "name": "Super Tires",
+        "description": "These tires are the very best",
+        "inStock": 5,
+        "price": 4.99,
+        "image": "/img/1.jpg",
+        "featured": false,
+        "quantity": 0
+    },
+    {
+        "id": 2,
+        "name": "Reinforced Shocks",
+        "description": "Shocks made from kryptonite",
+        "inStock": 0,
+        "price": 8.99,
+        "image": "/img/2.jpg",
+        "featured": true,
+        "quantity": 0
+    },
+    {
+        "id": 3,
+        "name": "Snow barriers",
+        "description": "It can handle the worst conditions",
+        "inStock": 5,
+        "price": 18.99,
+        "image": "/img/3.jpg",
+        "featured": false,
+        "quantity": 0
+    }
+];
+//# sourceMappingURL=car-part.mock.js.map
